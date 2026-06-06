@@ -1,3 +1,12 @@
+---
+layout: post
+title: "The Science of tACS Brain Stimulation for Sleep Wellness"
+date: 2026-04-30
+author: SELEPU Technology Team
+tags: [tACS, Brain Stimulation, Sleep Wellness, Neuroscience, Sleep Technology]
+description: "An accessible overview of tACS brain stimulation research and how brainwave-based approaches may shape the future of sleep wellness technology."
+---
+
 # The Science of tACS Brain Stimulation for Sleep: How Electrical Brain Waves Can Fix Your Insomnia
 
 *Updated: April 29, 2026*

@@ -1,2 +1,7 @@
-# selepu-blog
-AI-powered sleep technology blog from SELEPU. Building products that actually help you sleep better, not just track it. https://selepu.com
+# SELEPU Sleep Technology Blog
+
+GitHub Pages/Jekyll blog for SELEPU sleep technology content.
+
+- Website: https://selepu.com
+- Blog: https://aken-liu.github.io/selepu-blog/
+- Focus: AI sleep technology, AI sleep masks, DreamPilot M103, sleep wellness, brain-inspired sleep technology.

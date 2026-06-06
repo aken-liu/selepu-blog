@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<article class="post">
+  <header class="post-header">
+    <p class="eyebrow">SELEPU Sleep Technology</p>
+    <h1>{{ page.title }}</h1>
+    <p class="meta">{{ page.date | date: "%B %-d, %Y" }} · {{ page.author }}</p>
+    {% if page.tags %}<p class="tags">{% for tag in page.tags %}<span>{{ tag }}</span>{% endfor %}</p>{% endif %}
+  </header>
+  <div class="post-content">{{ content }}</div>
+  <section class="cta-box">
+    <h2>Build a smarter bedtime routine with SELEPU</h2>
+    <p>Explore DreamPilot M103 and SELEPU AI sleep wellness technology.</p>
+    <a class="button" href="https://selepu.com/?utm_source=github_pages&utm_medium=post_cta&utm_campaign={{ page.title | slugify }}" rel="noopener">Visit selepu.com</a>
+  </section>
+</article>

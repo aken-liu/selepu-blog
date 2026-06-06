@@ -4,7 +4,7 @@ title: "SELEPU M103: The Technology Behind AI-Powered Sleep Wellness"
 date: 2026-05-21
 author: SELEPU Technology Team
 tags: [SELEPU, M103, Sleep Technology, EEG, AI, Sleep Wellness, Smart Sleep Mask]
-description: "Discover the advanced technology powering SELEPU M103 AI Sleep Wellness Device - from EEG monitoring to AI-driven multi-sensory stimulation for better sleep."
+description: "Discover the technology powering SELEPU M103: EEG-inspired monitoring, AI personalization, and multi-sensory relaxation for smarter sleep wellness."
 ---
 
 # SELEPU M103: The Technology Behind AI-Powered Sleep Wellness

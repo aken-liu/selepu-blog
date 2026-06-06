@@ -1,19 +1,10 @@
 ---
+layout: post
 title: "AI Algorithms in Sleep Technology: Machine Learning Transforming Sleep Analysis"
-description: "Discover how deep learning, reinforcement learning, and predictive analytics are revolutionizing sleep monitoring, personalization, and sleep health outcomes."
 date: 2026-05-08
 author: SELEPU AI Research Division
-tags:
-  - AI sleep technology
-  - machine learning
-  - deep learning
-  - sleep staging
-  - predictive analytics
-  - reinforcement learning
-  - sleep algorithms
-categories:
-  - AI & Sleep Science
-image: /images/ai-sleep-algorithms.jpg
+tags: [AI Sleep Technology, Machine Learning, Sleep Staging, Predictive Analytics, SELEPU]
+description: "How deep learning, reinforcement learning, and predictive analytics are changing sleep monitoring, personalization, and wellness technology."
 ---
 
 # AI Algorithms in Sleep Technology: How Machine Learning is Transforming Sleep Analysis and Personalization

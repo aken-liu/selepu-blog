@@ -1,0 +1,21 @@
+title: SELEPU Sleep Technology Blog
+description: AI-powered sleep technology, smart sleep masks, and sleep wellness insights from SELEPU.
+url: "https://aken-liu.github.io"
+baseurl: "/selepu-blog"
+lang: en
+author: SELEPU Technology Team
+email: qiang.liu@selepu.com
+timezone: Asia/Shanghai
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md

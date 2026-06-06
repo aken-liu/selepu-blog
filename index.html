@@ -1,0 +1,22 @@
+---
+layout: default
+title: SELEPU Sleep Technology Blog
+description: AI sleep technology, smart sleep masks, brain-computer interface sleep wellness, and better bedtime routines from SELEPU.
+---
+<section class="hero">
+  <p class="eyebrow">AI Sleep Wellness</p>
+  <h1>SELEPU Sleep Technology Blog</h1>
+  <p>Insights on AI sleep masks, brain-inspired sleep technology, multi-sensory relaxation, and smarter bedtime routines.</p>
+  <a class="button" href="https://selepu.com/?utm_source=github_pages&utm_medium=homepage_hero&utm_campaign=selepu_blog" rel="noopener">Explore DreamPilot M103</a>
+</section>
+<section class="posts">
+  <h2>Latest Articles</h2>
+  {% for post in site.posts %}
+  <article class="card">
+    <p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    <p>{{ post.description }}</p>
+    <a class="read-more" href="{{ post.url | relative_url }}">Read article →</a>
+  </article>
+  {% endfor %}
+</section>

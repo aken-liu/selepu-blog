@@ -6,6 +6,7 @@ author: SELEPU Technology Team
 tags: [AI Sleep Mask, Racing Mind at Night, Sleep Technology, DreamPilot M103, SELEPU, Sleep Wellness, Bedtime Routine]
 description: "Struggling with a racing mind at night? Learn how a smarter bedtime routine and an AI sleep mask like DreamPilot M103 can support relaxation, sensory downshifting, and better sleep habits."
 canonical_url: "https://selepu.com/"
+permalink: /2026/06/12/ai-sleep-mask-racing-mind-at-night/
 ---
 
 # How to Calm a Racing Mind at Night: A Smarter Bedtime Routine with an AI Sleep Mask
